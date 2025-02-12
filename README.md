@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruvininanayakkara" alt="ruvininanayakkara" /></a> </p>
 
-- 🔭 I’m currently working on **Java Desktop Application**
+- 🔭 I’m currently working on **Web Application**
 
 - 🌱 I’m currently learning **Java | React**
 
